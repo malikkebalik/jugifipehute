@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://jugifipehute.pages.dev/sitemap.xml
